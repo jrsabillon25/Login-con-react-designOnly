@@ -1,0 +1,15 @@
+.Clientes{
+  border: solid rgba(28, 29, 27, 0.23);
+  float: left;
+  padding: 5%;
+  margin-left: 8px;
+  margin-top: 8px;
+  border-radius: 5%;
+  background-color: white;
+  box-shadow: 1px 2px 3px 1px;
+}
+
+.Clientes input{
+  margin-left: 25%;
+  margin-right: 25%;
+}
